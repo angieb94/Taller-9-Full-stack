@@ -1,0 +1,23 @@
+#tabla  {
+    margin: 150px 270px 0px;
+    background-color: yellow;
+    border-bottom: 1px dotted red;
+    border-top: 1px dotted black;
+    border-left: 1px dotted black;
+    border-right: 1px dotted black;
+    border-collapse: collapse;
+}
+
+.tabla-1 {
+    color: red;
+    
+}
+
+b {
+    font-size: 20px;
+}
+
+td {
+    border: 1px dotted black;
+    border-collapse: collapse;
+}

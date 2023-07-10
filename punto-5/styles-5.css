@@ -1,0 +1,29 @@
+#frase_1 {
+    margin: 200px 300px 0px;
+}
+
+.frase {
+    color: green;
+}
+
+.frase-1 {
+    color: red;
+}
+
+.frase-2 {
+    text-decoration: underline overline;
+}
+
+.frase-3 {
+    font-size: 40px;
+}
+
+.frase-4 {
+    color: blue;
+    font-size: 20px;
+}
+
+.frase-5 {
+    color: red;
+    font-size: 20px;
+}
